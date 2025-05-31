@@ -32,8 +32,11 @@ Ensure you have Python 3 installed on your machine.
 To-Do--Python/
 
 │
+
 ├── todo.py          # Main application logic
+
 ├── tasks.txt        # Task storage file
+
 └── README.md        # Project documentation
 
 ✅ Example:
