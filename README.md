@@ -5,19 +5,14 @@ A simple, terminal-based To-Do application written in Python. This project helps
 🚀 Features:
 
 Add new tasks
-
 View all tasks
-
 Mark tasks as completed
-
 Delete tasks
-
 Persistent task storage using a text file
 
 🛠️ Technologies Used:
 
 Python 3
-
 File I/O for storage (no external DB required)
 
 📦 How to Run:
@@ -25,7 +20,6 @@ File I/O for storage (no external DB required)
 1.Clone the repository
 
 git clone https://github.com/Venkatesh-Girugula/To-Do--Python.git
-
 cd To-Do--Python
 
 2.Run the script
@@ -38,11 +32,8 @@ Ensure you have Python 3 installed on your machine.
 To-Do--Python/
 
 │
-
 ├── todo.py          # Main application logic
-
 ├── tasks.txt        # Task storage file
-
 └── README.md        # Project documentation
 
 ✅ Example:
